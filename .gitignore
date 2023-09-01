@@ -1,0 +1,16 @@
+.Xil/
+.nfs*
+.vscode/
+.DS_Store
+
+obj_dir/
+a.out
+
+logs/
+*.vcd
+*.fst
+
+*.elf
+*.bin
+*.hex
+*.dump
